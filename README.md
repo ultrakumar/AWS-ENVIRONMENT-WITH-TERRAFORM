@@ -5,7 +5,7 @@ PRREQUISITES:
 
 (1) Terraform installed in the machine.
 
-(2) Hand on experience in the AWS environment.
+(2) Hands on experience in the AWS environment.
 
 I have uploaded all the modules that are required for the AWS ENVIRONMENT in this repository.
 
@@ -17,7 +17,7 @@ subnets module containes the details of the public and private subnets.
 
 After placing all the files in a directory run the terraform commands.
 
-terraform inti  => To initialize the terraform in that directory
+terraform init  => To initialize the terraform in that directory
 
 terraform plan  => It shows the environment that is going to build from the modules
 
